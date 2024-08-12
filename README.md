@@ -29,17 +29,6 @@
   
 
 
-# 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=Yashrajgk&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajgk&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-    </div>
-    <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashrajgk&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak Stats"/>
-    </div>
-</div>
 
 
